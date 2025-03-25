@@ -1,0 +1,3 @@
+[submodule "voice-assistant-frontend"]
+    path = voice-assistant-frontend
+url = https://github.com/livekit-examples/voice-assistant-frontend
